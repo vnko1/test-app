@@ -1,5 +1,5 @@
 import ErrorPath from "../components/error/ErrorPath";
 
-const ErrorPage = () => <ErrorPage />;
+const ErrorPage = () => <ErrorPath />;
 
 export default ErrorPage;
