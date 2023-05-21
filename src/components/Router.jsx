@@ -1,5 +1,5 @@
 import { Route, Routes } from "react-router-dom";
-import ErrorPage from "../pages/Page404";
+import ErrorPage from "../pages/ErrorPage";
 import SharedLayout from "./sharedLayout/SharedLayout";
 import TweetsPage from "../pages/TweetsPage";
 import HomePage from "../pages/HomePage";
